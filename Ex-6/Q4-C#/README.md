@@ -2,3 +2,5 @@
 <p>
 Have fun :)
 </p>
+
+![](myGif.gif)
