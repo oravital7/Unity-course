@@ -3,4 +3,4 @@
 Have fun :)
 </p>
 
-![](Ex-6/Q4-C#/myGif.gif)
+![](myGif.gif)
