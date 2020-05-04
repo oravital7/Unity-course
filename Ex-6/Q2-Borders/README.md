@@ -18,6 +18,7 @@ Based on the previous section, we can tell when an object is touching a frame an
 -![](https://media.giphy.com/media/cOL92M4cdu5myb4jMO/giphy.gif)
 
 Q3:
+
 Now player can move in a circular way.
 When touching the edge we move the spaceship location opposite from the location it's was.
 
