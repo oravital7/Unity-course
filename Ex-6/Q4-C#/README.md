@@ -3,4 +3,5 @@
 Have fun :)
 </p>
 
-![](myGif.gif)
+-![Sample Gif](https://i.imgur.com/Rdo2sxb.gif)
+
