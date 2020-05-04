@@ -37,7 +37,7 @@ class MyGame
             printBoard(word, correctedGuess);
             Console.WriteLine("Tries left: " + tryNumber + "/" + TRIES_NUM);
             Console.Write("Guess a Word or Letter: ");
-            string currentGuess = Console.ReadLine();
+            string currentGuess = Console.ReadLine().ToLower();
 
             if (currentGuess.Length == 1 && checkLettter(currentGuess[0], word, correctedGuess)) // it's one letter guess
             {
