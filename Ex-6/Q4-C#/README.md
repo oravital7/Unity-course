@@ -1,4 +1,4 @@
-<b>Play with 3,000 random words!</b>
+<b>Hangman Game - Play with 3,000 random words!</b>
 <p>
 Have fun :)
 </p>
